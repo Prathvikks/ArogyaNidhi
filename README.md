@@ -17,3 +17,12 @@ The application simplifies the process of finding suitable healthcare benefits b
 - 🏥 Focused on improving access to government healthcare schemes
 
 ---
+## 🛠️ Technologies Used
+
+- Java
+- Android Studio
+- Firebase
+- Gemini API
+- JSON Dataset
+
+---
