@@ -93,3 +93,13 @@ This project was designed and developed individually as part of my AI and Androi
 - Designed and tested the complete user interface using Android Studio.
 
 ---
+## 🚀 Future Improvements
+
+- Support for additional government healthcare schemes across different states.
+- Multi-language support to improve accessibility.
+- AI-powered symptom analysis for more personalized recommendations.
+- Integration with official government healthcare APIs.
+- Real-time hospital availability and appointment booking.
+- Enhanced chatbot capabilities for healthcare guidance.
+
+---
