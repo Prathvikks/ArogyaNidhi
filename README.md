@@ -47,3 +47,33 @@ AI Healthcare Chatbot
 - JSON Dataset
 
 ---
+
+### 🏠 Home Screen
+
+![Home Screen](assets/home-screen.png)
+
+---
+
+### 📝 Health Assessment
+
+![Health Assessment](assets/health-assessment.png)
+
+---
+
+### 💡 Government Healthcare Recommendations
+
+![Recommendations](assets/recommendations.png)
+
+---
+
+### 🏥 Nearby Hospitals
+
+![Nearby Hospitals](assets/nearby-hospitals.png)
+
+---
+
+### 🤖 AI Healthcare Chatbot
+
+![AI Chatbot](assets/ai-chatbot.png)
+
+---
