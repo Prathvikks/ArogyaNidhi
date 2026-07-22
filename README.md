@@ -77,3 +77,19 @@ AI Healthcare Chatbot
 ![AI Chatbot](assets/ai-chatbot.png)
 
 ---
+## 👨‍💻 My Contribution
+
+This project was designed and developed individually as part of my AI and Android application development journey.
+
+### My responsibilities included:
+
+- Designed and developed the complete Android application.
+- Integrated Firebase Authentication and backend services.
+- Developed the health assessment questionnaire.
+- Implemented AI-powered healthcare scheme recommendation using Gemini API.
+- Created eligibility-based recommendation logic using a structured JSON dataset.
+- Developed nearby hospital recommendation functionality.
+- Integrated an AI healthcare chatbot for basic medical guidance.
+- Designed and tested the complete user interface using Android Studio.
+
+---
